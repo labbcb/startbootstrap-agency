@@ -105,7 +105,7 @@
                 </div>
 		<div class="col-md-4">
                     <div class="team-member">
-                        <img src="img/team/white.png" class="img-responsive img-circle" alt="">
+                        <img src="img/team/one.png" class="img-responsive img-circle" alt="">
                         <h4>Cristiane Rocha</h4>
                         <p class="text-muted">Ph.D in Medical Physiopathology, working with bioinformatics analysis of gene expression with Next Generation Sequencing, microarray and mass spectrometry-based proteomics.<a href='http://lattes.cnpq.br/9138505434158075'>CV</a></p>
                     </div>
@@ -140,7 +140,7 @@
                 </div>
 		<div class="col-md-4">
                     <div class="team-member">
-                        <img src="img/team/white.png" class="img-responsive img-circle" alt="">
+                        <img src="img/team/one.png" class="img-responsive img-circle" alt="">
                         <h4>Monica Quast</h4>
 		                      <p class="text-muted">                                                  
 													</p>
@@ -148,7 +148,7 @@
                 </div>
 		<div class="col-md-4">
                     <div class="team-member">
-                        <img src="img/team/white.png" class="img-responsive img-circle" alt="">
+                        <img src="img/team/one.png" class="img-responsive img-circle" alt="">
                         <h4>Lucas Cendes</h4>
                         <p class="text-muted"></p>
                     </div>
